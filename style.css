@@ -213,7 +213,7 @@ a{
     text-decoration: underline;
 }
 
-@media (min-width:444px) and (max-width:1200px){
+@media (min-width:380px) and (max-width:1200px){
     body{ flex-direction: row;
     }
 }
